@@ -1,16 +1,24 @@
 # reminder
 
-A new Flutter project.
+A simple reminder app user interface.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install Flutter SDK.
+2. Install IDE.
+3. Setup device for testing.
+4. Save zip file from above link.
+5. Extract the zip file and open it in IDE.
+6. Run without debugging
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="start">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-screen-without-events.png" width="250" length="600" title="Home Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-screen-with-events.png" width="250" length="600" title="Home Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-event-list.png" width="250" length="600" title="Home Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/add-plan-screen.png" width="250" length="600" title="Add Plan Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/add-plan-screen-expanded.png" width="250" length="600" title="Add Plan Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/time-picker.png" width="250" length="600" title="Time Picker">
+  
+</p>
