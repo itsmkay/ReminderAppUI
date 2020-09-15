@@ -14,8 +14,8 @@ A simple reminder app user interface.
 ## Screenshots
 
 <p align="start">
-  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-screen-without-events.png" width="250" length="600" title="Home Screen">
-  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-screen-with-events.png" width="250" length="600" title="Home Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-without-events.png" width="250" length="600" title="Home Screen">
+  <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-with-events.png" width="250" length="600" title="Home Screen">
   <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/home-event-list.png" width="250" length="600" title="Home Screen">
   <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/add-plan-screen.png" width="250" length="600" title="Add Plan Screen">
   <img src="https://github.com/itsmkay/ReminderAppUI/raw/master/screenshots/add-plan-screen-expanded.png" width="250" length="600" title="Add Plan Screen">
